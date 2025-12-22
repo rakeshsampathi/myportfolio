@@ -90,3 +90,10 @@ p {
   background-color: #000000;
   color: #ffffff;
 }
+.projects h2 {
+  font-weight: 700;
+}
+
+.card {
+  border-radius: 10px;
+}
